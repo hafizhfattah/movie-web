@@ -1,16 +1,16 @@
-import * as React from 'react';
-import Card from '@mui/material/Card';
-import CardContent from '@mui/material/CardContent';
-import CardMedia from '@mui/material/CardMedia';
-import Typography from '@mui/material/Typography';
-import { CardActionArea, CardActions,  } from '@mui/material';
-import Stack from '@mui/material/Stack';
-import Button from '@mui/material/Button';
+import * as React from "react";
+import Card from "@mui/material/Card";
+import CardContent from "@mui/material/CardContent";
+import CardMedia from "@mui/material/CardMedia";
+import Typography from "@mui/material/Typography";
+import { CardActionArea, CardActions } from "@mui/material";
+import Stack from "@mui/material/Stack";
+import Button from "@mui/material/Button";
 
 const CardLima = () => {
   return (
-    <Card sx={{ maxWidth: 300  ,}} >
-      <CardActionArea >
+    <Card sx={{ maxWidth: 300 }}>
+      <CardActionArea>
         <CardMedia
           component="img"
           className="thor"
@@ -19,21 +19,29 @@ const CardLima = () => {
         />
         <CardContent>
           <Typography gutterBottom variant="h5" component="div">
-          Avengers: Endgame
+            Avengers: Endgame
           </Typography>
           <Typography variant="body2" color="text.secondary">
-          Melanjutkan Avengers Infinity War, dimana kejadian setelah Thanos berhasil mendapatkan semua infinity stones dan memusnahkan 50% semua mahluk hidup di alam semesta. Akankah para Avengers berhasil mengalahkan Thanos?
+            Melanjutkan Avengers Infinity War, dimana kejadian setelah Thanos
+            berhasil mendapatkan semua infinity stones dan memusnahkan 50% semua
+            mahluk hidup di alam semesta. Akankah para Avengers berhasil
+            mengalahkan Thanos?
           </Typography>
         </CardContent>
       </CardActionArea>
       <CardActions>
-      <Stack spacing={2} direction="row">
-      <Button variant="contained">Downlaod</Button>
-  
-    </Stack>
+        <Stack spacing={2} direction="row">
+          <a
+            href="https://github.com/hafizhfattah"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <Button variant="contained">Download</Button>
+          </a>
+        </Stack>
       </CardActions>
     </Card>
   );
-}
+};
 
 export default CardLima;

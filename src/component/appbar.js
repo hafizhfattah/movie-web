@@ -24,16 +24,6 @@ const Search = styled("div")(({ theme }) => ({
   },
 }));
 
-const SearchIconWrapper = styled("div")(({ theme }) => ({
-  padding: theme.spacing(0, 2),
-  height: "100%",
-  position: "absolute",
-  pointerEvents: "none",
-  display: "flex",
-  alignItems: "center",
-  justifyContent: "center",
-}));
-
 // Top 100 films as rated by IMDb users. http://www.imdb.com/chart/top
 const top100Films = [
   { title: "The Shawshank Redemption", year: 1994 },
@@ -193,21 +183,19 @@ export default function SearchAppBar() {
             sx={{ mr: 2 }}
           ></IconButton>
           <Typography
-            variant="h6"
+            variant="h4"
             noWrap
             component="div"
             sx={{ flexGrow: 1, display: { xs: "none", sm: "block" } }}
           >
-            MUI
+            VVMovie
           </Typography>
           <Search>
-            <SearchIconWrapper></SearchIconWrapper>
-
             <StyledInputBase
               placeholder="Search…"
               inputProps={{ "aria-label": "search" }}
             />
-            <Autocomplete
+            {/* <Autocomplete
               freeSolo
               id="free-solo-2-demo"
               disableClearable
@@ -223,7 +211,7 @@ export default function SearchAppBar() {
                   }}
                 />
               )}
-            />
+            /> */}
           </Search>
         </Toolbar>
       </AppBar>
