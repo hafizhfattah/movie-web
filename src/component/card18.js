@@ -6,27 +6,22 @@ import Typography from "@mui/material/Typography";
 import { Button, CardActionArea, CardActions } from "@mui/material";
 import Stack from "@mui/material/Stack";
 
-const CardTiga = () => {
+const CardDelapanbelas = () => {
   return (
     <Card sx={{ maxWidth: 300 }}>
       <CardActionArea>
         <CardMedia
           component="img"
           height="200"
-          className="thor"
-          image="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/3b40275456f337b265a43be78a729e35ae23eb3cacc062c76cd283605d461a37._RI_V_TTW_.jpg"
+          image="https://cdn0-production-images-kly.akamaized.net/aKRoGKldHUFcmAquRqh4QswaAbs=/640x853/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3928471/original/008865500_1644389715-MV5BNjI4ZTQ1OTYtNTI0Yi00M2EyLThiNjMtMzk1MmZlOWMyMDQwXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg"
         />
         <CardContent>
           <Typography gutterBottom variant="h5" component="div">
-            John Wick: Chapter 3 - Parabellum
+            Death on the Nile
           </Typography>
           <Typography variant="body2" color="text.secondary">
-            Seri ketiga "John Wick" ini akan mengisahkan kelanjutan nasib si
-            pembunuh bayaran usai menghabisi nyawa anggota High Table dalam The
-            Continental. Ia sendiri diburu dan hidupnya dihargai sebesar USD 14
-            juta (sekitar Rp 201 miliar). Diburu oleh berbagai pembunuh bayaran
-            hebat, John akan dibantu oleh karakter baru yang misterius bernama
-            Sofia (Halle Berry).
+            Saat berlibur di Sungai Nil, Hercule Poirot harus menyelidiki
+            pembunuhan seorang pewaris muda
           </Typography>
         </CardContent>
       </CardActionArea>
@@ -45,4 +40,4 @@ const CardTiga = () => {
   );
 };
 
-export default CardTiga;
+export default CardDelapanbelas;

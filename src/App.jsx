@@ -9,6 +9,22 @@ import CardTujuh from "./component/card7";
 import CardDelapan from "./component/card8";
 import CardSembilan from "./component/card9";
 import CardSepuluh from "./component/card10";
+import CardSebelas from "./component/card11";
+import CardDuabelas from "./component/card12";
+import CardTigabelas from "./component/card13";
+import CardEmpatbelas from "./component/card14";
+import CardLimabelas from "./component/card15";
+import CardEnambelas from "./component/card16";
+import CardTujuhbelas from "./component/card17";
+import CardDelapanbelas from "./component/card18";
+import CardSembilanbelas from "./component/card19";
+import CardDuapuluh from "./component/card20";
+import CardDuasatu from "./component/card21";
+import CardDuadua from "./component/card22";
+import CardDuatiga from "./component/card23";
+import CardDuaempat from "./component/card24";
+import CardDualima from "./component/card25";
+
 import SearchAppBar from "./component/appbar";
 
 function App() {
@@ -45,6 +61,51 @@ function App() {
         </div>
         <div className="kotak">
           <CardSepuluh />
+        </div>
+        <div className="kotak">
+          <CardSebelas />
+        </div>
+        <div className="kotak">
+          <CardDuabelas />
+        </div>
+        <div className="kotak">
+          <CardTigabelas />
+        </div>
+        <div className="kotak">
+          <CardEmpatbelas />
+        </div>
+        <div className="kotak">
+          <CardLimabelas />
+        </div>
+        <div className="kotak">
+          <CardEnambelas />
+        </div>
+        <div className="kotak">
+          <CardTujuhbelas />
+        </div>
+        <div className="kotak">
+          <CardDelapanbelas />
+        </div>
+        <div className="kotak">
+          <CardSembilanbelas />
+        </div>
+        <div className="kotak">
+          <CardDuapuluh />
+        </div>
+        <div className="kotak">
+          <CardDuasatu />
+        </div>
+        <div className="kotak">
+          <CardDuadua />
+        </div>
+        <div className="kotak">
+          <CardDuatiga />
+        </div>
+        <div className="kotak">
+          <CardDuaempat />
+        </div>
+        <div className="kotak">
+          <CardDualima />
         </div>
       </header>
     </div>

@@ -6,27 +6,25 @@ import Typography from "@mui/material/Typography";
 import { Button, CardActionArea, CardActions } from "@mui/material";
 import Stack from "@mui/material/Stack";
 
-const CardTiga = () => {
+const CardEnambelas = () => {
   return (
     <Card sx={{ maxWidth: 300 }}>
       <CardActionArea>
         <CardMedia
           component="img"
           height="200"
-          className="thor"
-          image="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/3b40275456f337b265a43be78a729e35ae23eb3cacc062c76cd283605d461a37._RI_V_TTW_.jpg"
+          image="https://cdn0-production-images-kly.akamaized.net/Btf2_bdHvrxQ55AVr3t9SVvBdDg=/640x853/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/4032970/original/044471600_1653449986-MV5BMmIwZDMyYWUtNTU0ZS00ODJhLTg2ZmEtMTk5ZmYzODcxODYxXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg"
         />
         <CardContent>
           <Typography gutterBottom variant="h5" component="div">
-            John Wick: Chapter 3 - Parabellum
+            Top Gun: Maverick
           </Typography>
           <Typography variant="body2" color="text.secondary">
-            Seri ketiga "John Wick" ini akan mengisahkan kelanjutan nasib si
-            pembunuh bayaran usai menghabisi nyawa anggota High Table dalam The
-            Continental. Ia sendiri diburu dan hidupnya dihargai sebesar USD 14
-            juta (sekitar Rp 201 miliar). Diburu oleh berbagai pembunuh bayaran
-            hebat, John akan dibantu oleh karakter baru yang misterius bernama
-            Sofia (Halle Berry).
+            Lebih dari 30 tahun mengabdi sebagai salah satu penerbang Angkatan
+            Laut terbaik, Pete “Maverick” Mitchell berada dalam posisi
+            dambaannya, melakukan aksi-aksi mendobrak sebagai pilot uji nan
+            pemberani, dan menampik setiap kesempatan naik pangkat karena akan
+            membuatnya tak bisa menerbangkan pesawatnya.
           </Typography>
         </CardContent>
       </CardActionArea>
@@ -45,4 +43,4 @@ const CardTiga = () => {
   );
 };
 
-export default CardTiga;
+export default CardEnambelas;

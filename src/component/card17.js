@@ -6,27 +6,26 @@ import Typography from "@mui/material/Typography";
 import { Button, CardActionArea, CardActions } from "@mui/material";
 import Stack from "@mui/material/Stack";
 
-const CardTiga = () => {
+const CardTujuhbelas = () => {
   return (
     <Card sx={{ maxWidth: 300 }}>
       <CardActionArea>
         <CardMedia
           component="img"
           height="200"
-          className="thor"
-          image="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/3b40275456f337b265a43be78a729e35ae23eb3cacc062c76cd283605d461a37._RI_V_TTW_.jpg"
+          image="https://upload.wikimedia.org/wikipedia/en/0/09/The_Sea_Beast_film_poster.png"
         />
         <CardContent>
           <Typography gutterBottom variant="h5" component="div">
-            John Wick: Chapter 3 - Parabellum
+            The Sea Beast
           </Typography>
           <Typography variant="body2" color="text.secondary">
-            Seri ketiga "John Wick" ini akan mengisahkan kelanjutan nasib si
-            pembunuh bayaran usai menghabisi nyawa anggota High Table dalam The
-            Continental. Ia sendiri diburu dan hidupnya dihargai sebesar USD 14
-            juta (sekitar Rp 201 miliar). Diburu oleh berbagai pembunuh bayaran
-            hebat, John akan dibantu oleh karakter baru yang misterius bernama
-            Sofia (Halle Berry).
+            Diterjemahkan dari bahasa Inggris-The Sea Beast adalah film
+            petualangan animasi komputer tahun 2022 yang disutradarai oleh Chris
+            Williams, yang ikut menulis skenario dengan Nell Benjamin dan
+            diproduksi bersama Jed Schlanger. Film ini dibintangi oleh suara
+            Karl Urban, Zaris-Angel Hator, Jared Harris, dan Marianne
+            Jean-Baptiste.
           </Typography>
         </CardContent>
       </CardActionArea>
@@ -45,4 +44,4 @@ const CardTiga = () => {
   );
 };
 
-export default CardTiga;
+export default CardTujuhbelas;

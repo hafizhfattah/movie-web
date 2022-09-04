@@ -6,7 +6,7 @@ import Typography from "@mui/material/Typography";
 import { Button, CardActionArea, CardActions } from "@mui/material";
 import Stack from "@mui/material/Stack";
 
-const CardTiga = () => {
+const CardDuatiga = () => {
   return (
     <Card sx={{ maxWidth: 300 }}>
       <CardActionArea>
@@ -14,19 +14,18 @@ const CardTiga = () => {
           component="img"
           height="200"
           className="thor"
-          image="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/3b40275456f337b265a43be78a729e35ae23eb3cacc062c76cd283605d461a37._RI_V_TTW_.jpg"
+          image="https://m.media-amazon.com/images/M/MV5BZGQ1NjQyNDMtNzFlZS00ZGIzLTliMWUtNGJkMGMzNTBjNDg0XkEyXkFqcGdeQXVyMTE1NDI5MDQx._V1_.jpg"
         />
         <CardContent>
           <Typography gutterBottom variant="h5" component="div">
-            John Wick: Chapter 3 - Parabellum
+            Fantastic Beasts: The Crimes of Grindelwald
           </Typography>
           <Typography variant="body2" color="text.secondary">
-            Seri ketiga "John Wick" ini akan mengisahkan kelanjutan nasib si
-            pembunuh bayaran usai menghabisi nyawa anggota High Table dalam The
-            Continental. Ia sendiri diburu dan hidupnya dihargai sebesar USD 14
-            juta (sekitar Rp 201 miliar). Diburu oleh berbagai pembunuh bayaran
-            hebat, John akan dibantu oleh karakter baru yang misterius bernama
-            Sofia (Halle Berry).
+            Film kedua dari seri Fantastic Beasts ini akan melanjutkan kisah
+            Newt Scamander (Eddie Redmayne) untuk kembali menangkap Gellert
+            Grindelwald (Johnny Depp) yang berhasil lolos dari penjara. Bersama
+            Albus Dumbledore (Jude Law) Newt harus bisa menghentikan Grindelwald
+            yang ingin menghancurkan tatanan dunia.{" "}
           </Typography>
         </CardContent>
       </CardActionArea>
@@ -45,4 +44,4 @@ const CardTiga = () => {
   );
 };
 
-export default CardTiga;
+export default CardDuatiga;

@@ -6,27 +6,25 @@ import Typography from "@mui/material/Typography";
 import { Button, CardActionArea, CardActions } from "@mui/material";
 import Stack from "@mui/material/Stack";
 
-const CardTiga = () => {
+const CardDuabelas = () => {
   return (
     <Card sx={{ maxWidth: 300 }}>
       <CardActionArea>
         <CardMedia
           component="img"
-          height="200"
           className="thor"
-          image="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/3b40275456f337b265a43be78a729e35ae23eb3cacc062c76cd283605d461a37._RI_V_TTW_.jpg"
+          height="200"
+          image="https://cdn0-production-images-kly.akamaized.net/cDhkUpzgRUch2bSBcVO8rQMqP94=/640x853/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3894163/original/099647800_1641281552-MV5BYjlhNTA3Y2ItYjhiYi00NTBiLTg5MDMtZDJjMDZjNzVjNjJmXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg"
         />
         <CardContent>
           <Typography gutterBottom variant="h5" component="div">
-            John Wick: Chapter 3 - Parabellum
+            Morbius
           </Typography>
           <Typography variant="body2" color="text.secondary">
-            Seri ketiga "John Wick" ini akan mengisahkan kelanjutan nasib si
-            pembunuh bayaran usai menghabisi nyawa anggota High Table dalam The
-            Continental. Ia sendiri diburu dan hidupnya dihargai sebesar USD 14
-            juta (sekitar Rp 201 miliar). Diburu oleh berbagai pembunuh bayaran
-            hebat, John akan dibantu oleh karakter baru yang misterius bernama
-            Sofia (Halle Berry).
+            Ahli biokimia M ichael Morbius (Jared Leto) mencoba menyembuhkan
+            dirinya sendiri dari penyakit darah langka, namun secara tidak
+            sengaja ia menginfeksi tubuhnya dan berubah jadi mahluk yang
+            menyerupai vampir.
           </Typography>
         </CardContent>
       </CardActionArea>
@@ -45,4 +43,4 @@ const CardTiga = () => {
   );
 };
 
-export default CardTiga;
+export default CardDuabelas;
