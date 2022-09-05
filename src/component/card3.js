@@ -12,8 +12,6 @@ const CardTiga = () => {
       <CardActionArea>
         <CardMedia
           component="img"
-          height="200"
-          className="thor"
           image="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/3b40275456f337b265a43be78a729e35ae23eb3cacc062c76cd283605d461a37._RI_V_TTW_.jpg"
         />
         <CardContent>

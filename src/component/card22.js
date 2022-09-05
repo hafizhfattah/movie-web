@@ -12,7 +12,6 @@ const CardDuadua = () => {
       <CardActionArea>
         <CardMedia
           component="img"
-          height="200"
           image="https://m.media-amazon.com/images/M/MV5BN2ZmYTlhNmMtODQ0OS00YWNiLWI1MmMtNzkwYWMzOGM4YWQxXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg"
         />
         <CardContent>

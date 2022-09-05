@@ -12,7 +12,6 @@ const CardDua = () => {
       <CardActionArea>
         <CardMedia
           component="img"
-          height="200"
           image="https://lumiere-a.akamaihd.net/v1/images/dsitmom_poster_ph-sg-id_f0f15716.jpeg"
         />
         <CardContent>

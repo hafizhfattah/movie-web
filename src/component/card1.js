@@ -13,8 +13,6 @@ const CardSatu = () => {
       <CardActionArea>
         <CardMedia
           component="img"
-          className="thor"
-          height="200"
           image="https://cdn0-production-images-kly.akamaized.net/UV2d_uwDPz5uKY6u-2DzrikKRqY=/640x853/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3999523/original/076350300_1650347498-FQobVY2UcAMkRSa.jpg"
         />
         <CardContent>

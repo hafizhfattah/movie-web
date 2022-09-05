@@ -12,8 +12,6 @@ const CardDuasatu = () => {
       <CardActionArea>
         <CardMedia
           component="img"
-          height="200"
-          thor="thor"
           image="https://m.media-amazon.com/images/M/MV5BMzVlMmY2NTctODgwOC00NDMzLWEzMWYtM2RiYmIyNTNhMTI0XkEyXkFqcGdeQXVyNTAzNzgwNTg@._V1_.jpg"
         />
         <CardContent>

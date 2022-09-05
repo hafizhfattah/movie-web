@@ -12,7 +12,6 @@ const CardTigabelas = () => {
       <CardActionArea>
         <CardMedia
           component="img"
-          height="200"
           image="https://m.media-amazon.com/images/M/MV5BMWEwNjhkYzYtNjgzYy00YTY2LThjYWYtYzViMGJkZTI4Y2MyXkEyXkFqcGdeQXVyNTM0OTY1OQ@@._V1_.jpg"
         />
         <CardContent>

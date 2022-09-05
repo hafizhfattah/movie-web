@@ -13,8 +13,6 @@ const CardTujuh = () => {
       <CardActionArea>
         <CardMedia
           component="img"
-          className="thor"
-          height="200"
           image="https://lumiere-a.akamaihd.net/v1/images/p_disney_lightyear_519_c4636841.jpeg"
         />
         <CardContent>

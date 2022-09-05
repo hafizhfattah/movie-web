@@ -12,7 +12,6 @@ const CardLimabelas = () => {
       <CardActionArea>
         <CardMedia
           component="img"
-          height="200"
           image="https://idseducation.com/wp-content/uploads/2022/07/the-bad-guys.jpg   "
         />
         <CardContent>

@@ -12,8 +12,6 @@ const CardDuabelas = () => {
       <CardActionArea>
         <CardMedia
           component="img"
-          className="thor"
-          height="200"
           image="https://cdn0-production-images-kly.akamaized.net/cDhkUpzgRUch2bSBcVO8rQMqP94=/640x853/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3894163/original/099647800_1641281552-MV5BYjlhNTA3Y2ItYjhiYi00NTBiLTg5MDMtZDJjMDZjNzVjNjJmXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg"
         />
         <CardContent>

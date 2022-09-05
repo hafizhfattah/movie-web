@@ -12,7 +12,6 @@ const CardDuapuluh = () => {
       <CardActionArea>
         <CardMedia
           component="img"
-          height="200"
           image="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Prey_2022_poster.png/220px-Prey_2022_poster.png"
         />
         <CardContent>

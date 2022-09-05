@@ -12,8 +12,6 @@ const CardEmpatbelas = () => {
       <CardActionArea>
         <CardMedia
           component="img"
-          className="thor"
-          height="200"
           image="https://cdn0-production-images-kly.akamaized.net/8sKe6w6rxplCTEPgkzFrcl6nXMI=/640x853/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3934875/original/001011400_1644919160-257920819_418378333160843_2396124103390731993_n.jpg"
         />
         <CardContent>

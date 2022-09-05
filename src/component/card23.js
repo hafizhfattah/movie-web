@@ -12,8 +12,6 @@ const CardDuatiga = () => {
       <CardActionArea>
         <CardMedia
           component="img"
-          height="200"
-          className="thor"
           image="https://m.media-amazon.com/images/M/MV5BZGQ1NjQyNDMtNzFlZS00ZGIzLTliMWUtNGJkMGMzNTBjNDg0XkEyXkFqcGdeQXVyMTE1NDI5MDQx._V1_.jpg"
         />
         <CardContent>

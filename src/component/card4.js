@@ -12,7 +12,6 @@ const CardEmpat = () => {
       <CardActionArea>
         <CardMedia
           component="img"
-          height="200"
           image="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/06/04/3296160147.jpg"
         />
         <CardContent>

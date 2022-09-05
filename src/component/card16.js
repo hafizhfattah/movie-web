@@ -12,7 +12,6 @@ const CardEnambelas = () => {
       <CardActionArea>
         <CardMedia
           component="img"
-          height="200"
           image="https://cdn0-production-images-kly.akamaized.net/Btf2_bdHvrxQ55AVr3t9SVvBdDg=/640x853/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/4032970/original/044471600_1653449986-MV5BMmIwZDMyYWUtNTU0ZS00ODJhLTg2ZmEtMTk5ZmYzODcxODYxXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg"
         />
         <CardContent>

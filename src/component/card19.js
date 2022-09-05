@@ -12,17 +12,15 @@ const CardSembilanbelas = () => {
       <CardActionArea>
         <CardMedia
           component="img"
-          height="200"
-          image="https://cdn.antaranews.com/cache/800x533/2022/03/11/main_pc.jpg"
+          image="https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1634025439/30662ad2a33deee611d2d1a12ca4d01492367a871c2f8e6b54a2fc689598f1b1.jpg"
         />
         <CardContent>
           <Typography gutterBottom variant="h5" component="div">
-            Jujutsu Kaisen 0
+            Sonic the Hedgehog 2
           </Typography>
           <Typography variant="body2" color="text.secondary">
-            Yuta Okkotsu adalah seorang siswa SMA penyendiri yang mengalami
-            masalah besar—teman masa kecilnya, Rika telah menjelma menjadi roh
-            kutukan yang enggan lepas darinya.
+            Dr. Robotnik kembali ke bumi dengan sekutu baru, Knuckles. Sonic dan
+            teman barunya Tails akan berjuang melawan mereka.
           </Typography>
         </CardContent>
       </CardActionArea>

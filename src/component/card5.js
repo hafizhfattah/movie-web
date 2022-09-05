@@ -13,8 +13,6 @@ const CardLima = () => {
       <CardActionArea>
         <CardMedia
           component="img"
-          className="thor"
-          height="200"
           image="https://cdn1-production-images-kly.akamaized.net/W1hZ6EtofTwwgShg7Fp6AnOaPY8=/640x853/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2752156/original/097349000_1552638820-avengers-endgame-official-poster.jpg"
         />
         <CardContent>

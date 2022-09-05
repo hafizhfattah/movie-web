@@ -13,7 +13,6 @@ const CardDelapan = () => {
       <CardActionArea>
         <CardMedia
           component="img"
-          height="200"
           image="https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_.jpg"
         />
         <CardContent>

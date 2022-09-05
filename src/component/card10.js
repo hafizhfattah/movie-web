@@ -13,19 +13,17 @@ const CardSepuluh = () => {
       <CardActionArea>
         <CardMedia
           component="img"
-          className="thor"
-          height="200"
-          image="https://asset.kompas.com/crops/xu3eTsq4nfH_L2xuzYrhWUJS3YE=/200x136:1148x768/750x500/data/photo/2021/09/29/61541cf6511c3.jpg"
+          image="https://upload.wikimedia.org/wikipedia/id/5/54/The_Batman_%28film%29_poster.jpeg"
         />
         <CardContent>
           <Typography gutterBottom variant="h5" component="div">
-            The Boys
+            The Batman
           </Typography>
           <Typography variant="body2" color="text.secondary">
-            The Boys adalah sebuah seri televisi web pahlawan super Amerika
-            Serikat yang berdasarkan pada buku komik bernama sama karya Garth
-            Ennis dan Darick Robertson. Dikembangkan oleh Eric Kripke untuk
-            Amazon, seri tersebut tayang perdana pada 26 Juli 2019.
+            Ketika Riddler, seorang pembunuh berantai yang sadis mulai membunuh
+            tokoh-tokoh politik penting di Gotham, Batman dituntut untuk
+            menyelidiki korupsi tersembunyi di kota itu dan mempertanyakan
+            keterlibatan keluarganya.
           </Typography>
         </CardContent>
       </CardActionArea>

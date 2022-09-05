@@ -12,7 +12,6 @@ const CardSebelas = () => {
       <CardActionArea>
         <CardMedia
           component="img"
-          height="200"
           image="https://cdn1-production-images-kly.akamaized.net/bjubF9HccDrm6GsiDp59ngcysCs=/640x853/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3962311/original/077954600_1647257519-the_adam.jpg"
         />
         <CardContent>

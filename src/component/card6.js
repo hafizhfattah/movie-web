@@ -13,7 +13,6 @@ const CardEnam = () => {
       <CardActionArea>
         <CardMedia
           component="img"
-          height="200"
           image="https://cdn-cas.orami.co.id/parenting/images/1_gQgf8Nu.width-800.jpg"
         />
         <CardContent>

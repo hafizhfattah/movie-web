@@ -13,7 +13,6 @@ const CardSembilan = () => {
       <CardActionArea>
         <CardMedia
           component="img"
-          height="200"
           image="https://m.media-amazon.com/images/M/MV5BMTY0MjEyODQzMF5BMl5BanBnXkFtZTcwMTczMjQ4Mg@@._V1_FMjpg_UX1000_.jpg"
         />
         <CardContent>

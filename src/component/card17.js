@@ -12,7 +12,6 @@ const CardTujuhbelas = () => {
       <CardActionArea>
         <CardMedia
           component="img"
-          height="200"
           image="https://upload.wikimedia.org/wikipedia/en/0/09/The_Sea_Beast_film_poster.png"
         />
         <CardContent>

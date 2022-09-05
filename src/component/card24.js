@@ -12,7 +12,6 @@ const CardDuaempat = () => {
       <CardActionArea>
         <CardMedia
           component="img"
-          height="200"
           image=" https://images.soco.id/68-Review-Minions-The-Rise-of-Gru-1.jpg.jpg      "
         />
         <CardContent>
