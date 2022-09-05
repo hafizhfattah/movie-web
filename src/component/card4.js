@@ -21,7 +21,7 @@ const CardEmpat = () => {
           <Typography variant="body2" color="text.secondary">
             Empat tahun setelah kehancuran pulau Nublar, dinosaurus sekarang
             hidup dan berburu bersama manusia di seluruh dunia. Keseimbangan
-            yang rapuh ini akan menentukan, apakah manusia akan tetap menjadi
+            yang rapuh ini akan menentukan, Apakah manusia akan tetap menjadi
             berada di puncak rantai makanan ketika berbagi wilayah dengan
             makhluk paling menakutkan dalam sejarah bumi.
           </Typography>
