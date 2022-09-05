@@ -21,7 +21,7 @@ const CardSatu = () => {
           </Typography>
           <Typography variant="body2" color="text.secondary">
             "Thor: Love and Thunder"menceritakan Thor dalam sebuah perjalanan
-            yang belum pernah ia jalani – pencariankedamaian batin. Namun, masa
+            yang belum pernah ia jalani – pencariankedamaian batin. Namun masa
             pensiunnya terganggu oleh seorang pembunuh galaksi yang dikenal
             sebagai Gorr sang Dewa Jagal , yang ingin memusnahkan para dewa.
           </Typography>
