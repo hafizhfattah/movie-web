@@ -12,18 +12,16 @@ const CardDuadua = () => {
       <CardActionArea>
         <CardMedia
           component="img"
-          image="https://m.media-amazon.com/images/M/MV5BN2ZmYTlhNmMtODQ0OS00YWNiLWI1MmMtNzkwYWMzOGM4YWQxXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg"
+          image="https://www.mnctrijaya.com/uploads/news/superpets.jpg"
         />
         <CardContent>
           <Typography gutterBottom variant="h5" component="div">
-            Black Adam
+            DC League of Super-Pets
           </Typography>
           <Typography variant="body2" color="text.secondary">
-            Black Adam adalah film adiwira Amerika Serikat mendatang yang
-            didasarkan dari watak DC Comics bernama sama. Film ini diproduksi
-            oleh DC Films, New Line Cinema, Seven Bucks Productions, dan
-            FlynnPictureCo., serta didistribusikan oleh Warner Bros. Pictures.
-            Film ini diniatkan sebagai sempalan dari Shazam!{" "}
+            Dalam “DC League of Super-Pets,” Krypto si Anjing-Super dan Superman
+            adalah sahabat yang tak terpisahkan, berbagi kekuatan super yang
+            sama dan memerangi kejahatan di Metropolis secara berdampingan.
           </Typography>
         </CardContent>
       </CardActionArea>

@@ -13,17 +13,18 @@ const CardSatu = () => {
       <CardActionArea>
         <CardMedia
           component="img"
-          image="https://cdn0-production-images-kly.akamaized.net/UV2d_uwDPz5uKY6u-2DzrikKRqY=/640x853/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3999523/original/076350300_1650347498-FQobVY2UcAMkRSa.jpg"
+          image="https://bacaterus.com/wp-content/uploads/2022/07/Fall-2022_.webp"
         />
         <CardContent>
           <Typography gutterBottom variant="h5" component="div">
-            Thor: Love and Thunder
+            Fall
           </Typography>
           <Typography variant="body2" color="text.secondary">
-            "Thor: Love and Thunder"menceritakan Thor dalam sebuah perjalanan
-            yang belum pernah ia jalani – pencariankedamaian batin. Namun masa
-            pensiunnya terganggu oleh seorang pembunuh galaksi yang dikenal
-            sebagai Gorr sang Dewa Jagal , yang ingin memusnahkan para dewa.
+            Becky dan Hunter adalah dua orang yang suka menghadapi ketakutan dan
+            suka menantang diri mereka hingga batas terakhir. Tetapi, setelah
+            mereka memanjat sebuah tower radio terbengkalai setinggi 600-an
+            meter, mereka menemukan diri mereka terjebak di atas tanpa jalan
+            turun.
           </Typography>
         </CardContent>
       </CardActionArea>

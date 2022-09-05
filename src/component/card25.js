@@ -12,17 +12,18 @@ const CardSembilanbelas = () => {
       <CardActionArea>
         <CardMedia
           component="img"
-          image="https://m.media-amazon.com/images/M/MV5BMWFmYmRiYzMtMTQ4YS00NjA5LTliYTgtMmM3OTc4OGY3MTFkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg"
+          image="https://m.media-amazon.com/images/M/MV5BZDM2YjA2ZjAtMmZmMy00NDhjLWJjYWYtYjc4ZGY0YzUzOTMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg"
         />
         <CardContent>
           <Typography gutterBottom variant="h5" component="div">
-            avatar: the way of water
+            The Man from Toronto
           </Typography>
           <Typography variant="body2" color="text.secondary">
-            Avatar 2 adalah sebuah film fiksi ilmiah epik Amerika Serikat yang
-            disutradarai, produksi, dan ditulis oleh James Cameron. Film
-            tersebut adalah film pertama dari empat sekuel yang direncanakan
-            untuk filmnya Avatar.{" "}
+            The Man from Toronto adalah film komedi laga Amerika Serikat tahun
+            2022 yang disutradarai Patrick Hughes dan dibintangi Kevin Hart,
+            Woody Harrelson, Kaley Cuoco, dan Ellen Barkin. The Man from Toronto
+            dijadwalkan ditayangkan pada 14 Januari 2022 di Amerika Serikat Sony
+            Pictures Releasing
           </Typography>
         </CardContent>
       </CardActionArea>
