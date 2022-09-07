@@ -19,7 +19,7 @@ const CardEmpat = () => {
             Jurassic World Dominion
           </Typography>
           <Typography variant="body2" color="text.secondary">
-            Empat tahun setelah kehancuran pulau Nublar, dinosaurus sekarang
+            Empat tahun setelah kehancuran pulau Nublar, Dinosaurus sekarang
             hidup dan berburu bersama manusia di seluruh dunia. Keseimbangan
             yang rapuh ini akan menentukan, Apakah manusia akan tetap menjadi
             berada di puncak rantai makanan ketika berbagi wilayah dengan
