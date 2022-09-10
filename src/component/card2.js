@@ -29,7 +29,7 @@ const CardDua = () => {
       <CardActions>
         <Stack spacing={2} direction="row">
           <a
-            href="https://github.com/hafizhfattah"
+            href="https://www.febbox.com/share/BwLlaT6H"
             target="_blank"
             rel="noreferrer"
           >
