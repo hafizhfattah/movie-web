@@ -1,8 +1,13 @@
-## Sekilas tentang VVMovie
+### 📦 **VVMovie Web**
 
-Project ini bernama VVMovie, Ini adalah personal project, Dikerjakan secara personal oleh saya sendiri, Idenya muncul ketika melihat situs lain memiliki terlalu banyak iklan untuk mendapatkan link downloadnya
+A VVMovie for Web
+Made With ReactJS
 
-## How to run this Project
-
-- npm install
-- npm start 
+### 🚀 **Getting Started**
+1. Clone this project || Download Zip from GitHub
+2. Run the project 
+### 🎖  **Installing**
+```
+npm install
+npm start
+```
