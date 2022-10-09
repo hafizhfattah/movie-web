@@ -1,7 +1,7 @@
 ### 📦 **VVMovie Web**
 
 A VVMovie for Web
-Made With ReactJS, NodeJS
+Made With ReactJS, NodeJS.
 
 ### 🚀 **Getting Started**
 1. Clone this project || Download Zip from GitHub
